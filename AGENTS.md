@@ -122,10 +122,10 @@ pending_rewards = [{"user", "wallet", "amount", "reason", "timestamp", "status"}
 |---|---|---|
 | publish_call | +5 | — |
 | endorse_call | +2 | — |
-| resolve tp_hit | +10 | 10 ACRED queued |
+| resolve tp_hit | +10 | ACRED reward queued |
 | resolve sl_hit | -2 | — |
 | resolve expired | -1 | — |
-| reach 100 rep (once) | — | 10 ACRED queued |
+| reach 100 rep (once) | — | ACRED reward queued |
 
 ---
 
